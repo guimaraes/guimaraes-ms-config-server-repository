@@ -9,4 +9,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Pronto"
-  default-value: "Prod"
+  default-value: "Produção"
